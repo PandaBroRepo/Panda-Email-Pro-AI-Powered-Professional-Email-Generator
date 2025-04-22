@@ -67,14 +67,15 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-- Record your message using the microphone.
-- Choose the appropriate tone for your email.
-- AI-generated professional email output.
-- Receive AI-driven feedback on your email's effectiveness.
+- Record your message using the microphone and Choose the appropriate tone for your email.
+  ![image](https://github.com/user-attachments/assets/1bdb2639-4bfb-4295-9dcc-86a1abafe255)
+
+- AI-generated professional email output and Receive AI-driven feedback on your email's effectiveness.
+  ![image](https://github.com/user-attachments/assets/a5156c61-2b33-479c-bb8f-2bec781f65ce)
 
 ## 🧠 Inspiration
 
-The inspiration behind Panda Email Pro stems from the need for efficient and effective communication in professional settings. By integrating voice input and AI-driven feedback, this tool aims to simplify the email composition process while enhancing the quality of communication.
+The inspiration behind Panda Email Pro stems from the need for efficient and effective communication in my previous business professional experience. By integrating voice input and AI-driven feedback, this tool aims to simplify the email composition process while enhancing the quality of communication.
 
 ## 📜 License
 
