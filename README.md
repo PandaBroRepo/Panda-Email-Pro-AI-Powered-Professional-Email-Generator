@@ -27,37 +27,6 @@ Panda Email Pro is an innovative AI-driven application designed to transform spo
 - Gemini API access credentials
 - Microphone-enabled device
 
-### Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/panda-email-pro.git
-cd panda-email-pro
-```
-
-2. Create a virtual environment:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-4. Set up environment variables:
-   - Create a .env file in the root directory.
-   - Add your Gemini API key:
-```bash
-GEMINI_API_KEY=your_api_key_here
-```
-
-5. Run the application:
-```bash
-streamlit run app.py
-```
-
 ## 📄 Usage
 
 1. Activate Microphone: Click on the microphone icon to start recording your message.
